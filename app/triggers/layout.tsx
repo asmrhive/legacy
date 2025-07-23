@@ -2,7 +2,7 @@ import React from "react";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Triggers - Interactive ASMR",
+  title: "Triggers - ASMR Hive",
 };
 
 type Props = { children: React.ReactNode };

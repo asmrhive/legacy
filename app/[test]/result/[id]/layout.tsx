@@ -12,7 +12,7 @@ export async function generateMetadata(props: { params: Promise<{ test: string }
   }
 
   return {
-    title: `Result | ${test.title} - Interactive ASMR`,
+    title: `Result | ${test.title} - ASMR Hive`,
   };
 }
 

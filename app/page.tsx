@@ -11,7 +11,7 @@ export default function Home() {
       <div className="max-w-3xl mx-auto flex flex-col gap-12 items-stretch">
         <section className="pt-12 md:pt-24 flex flex-col items-center gap-8 w-full">
           <div className="flex flex-col items-center gap-2">
-            <h1 className="font-tight font-medium text-2xl md:text-3xl xl:text-4xl text-gray-200 text-center">Interactive ASMR</h1>
+            <h1 className="font-tight font-medium text-2xl md:text-3xl xl:text-4xl text-gray-200 text-center">ASMR Hive</h1>
             <div className="font-medium text-sm md:text-base text-purple-300 flex flex-wrap gap-1 text-center max-w-[250px] sm:max-w-none">Experience ASMR tests from the comfort of your home</div>
           </div>
           <div className="flex flex-wrap justify-center w-full max-w-3xl gap-6">
